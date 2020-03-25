@@ -1,3 +1,3 @@
 # groupSilver
 
-Fighter Portal page created by Kazim Shabbir
+Fighter Portal page created by Nicholas Nwanochie,Sean Page, Steven Johnson, Kazim Shabbir
